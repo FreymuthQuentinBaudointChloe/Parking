@@ -1,4 +1,4 @@
-Compte rendu Séance 1
+Compte rendu Séance 1 (séance effectuée en binôme pour se mettre d'accord sur les éléments à venir)
 
 Nous avons d’abord mis sur papier le schéma de notre parking avec les éléments dont nous avions besoins pour sa construction.
 
