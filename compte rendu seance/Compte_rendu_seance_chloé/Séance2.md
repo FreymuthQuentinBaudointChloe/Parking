@@ -6,8 +6,7 @@ J’ai vérifié que celui-ci marchait en affichant sur le moniteur les distance
 Dans un deuxième temps, je me suis intéressée au ruban LED. 
 En récupérant le programme donné par Mr Masson et en le modifiant pour ne prendre que ce qui m’étais utile, j’ai affiché dans premier temps du rouge sur une des 5 LEDS disponibles puis sur deux LEDS et enfin du vert (voir ci-dessous). 
 
-
-![image](https://user-images.githubusercontent.com/120109320/208505160-cd765ded-6d4f-4cd3-8d25-d7689970777a.png)
+![image](https://user-images.githubusercontent.com/120109320/208505590-347a71f0-b75c-4c80-8512-871a29983a3e.png)
 
 
 
