@@ -27,9 +27,11 @@ Le problème était donc dans le code. En effet, je déclenchais mes deux capteu
 Finalement j’obtiens le montage final ainsi que le programme ci-dessous :
 
 ![image](https://user-images.githubusercontent.com/120109320/208504808-28dab41f-4c84-4c56-a938-a96c1d834fdb.png)
-![image](https://user-images.githubusercontent.com/120109320/208505380-bc29330f-1481-42c9-93f7-a1909b6a0870.png)
-![image](https://user-images.githubusercontent.com/120109320/208505409-8ed1bc57-977b-4abd-af73-a623369409ca.png)
-![image](https://user-images.githubusercontent.com/120109320/208505446-af283029-8bae-44a0-a9ed-7934f2c98f05.png)
+
+Code : 
+![image](https://user-images.githubusercontent.com/120109320/208505767-5fb5cce6-dd55-472e-9cb6-899c77660a38.png)
+![image](https://user-images.githubusercontent.com/120109320/208505843-34022143-b7a6-4956-9db2-46aff478e39c.png)
+![image](https://user-images.githubusercontent.com/120109320/208505874-da054ec8-69be-4572-9388-94724973df23.png))
 
 
 
