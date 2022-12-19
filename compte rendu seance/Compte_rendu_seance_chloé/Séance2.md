@@ -28,10 +28,12 @@ Finalement j’obtiens le montage final ainsi que le programme ci-dessous :
 
 ![image](https://user-images.githubusercontent.com/120109320/208504808-28dab41f-4c84-4c56-a938-a96c1d834fdb.png)
 
+
 Code : 
+
 ![image](https://user-images.githubusercontent.com/120109320/208505767-5fb5cce6-dd55-472e-9cb6-899c77660a38.png)
 ![image](https://user-images.githubusercontent.com/120109320/208505843-34022143-b7a6-4956-9db2-46aff478e39c.png)
-![image](https://user-images.githubusercontent.com/120109320/208505874-da054ec8-69be-4572-9388-94724973df23.png))
+![image](https://user-images.githubusercontent.com/120109320/208505874-da054ec8-69be-4572-9388-94724973df23.png)
 
 
 
