@@ -19,7 +19,13 @@ J’ai ensuite réalisé un montage avec le capteur ultrason et le servomoteur d
 
 
 
-J’ai ensuite écrit un programme qui permet de descendre la barrière, puis de la garder en bas, tant qu’une voiture se situe en dessous, et de la relever seulement lorsque la voiture est passée. J’ai donc fait des conditions (if et while) avec la distance que renvoie le capteur ultrason pour remonter ou non la barrière. 
+J’ai ensuite écrit un programme qui permet de descendre la barrière, puis de la garder en bas, tant qu’une voiture se situe en dessous, et de la relever seulement lorsque la voiture est passée. J’ai donc fait des conditions (if), (voir code ci dessous) avec la distance que renvoie le capteur ultrason pour remonter ou non la barrière. 
+
+![compte rnedu 2](https://user-images.githubusercontent.com/120109320/208686939-30e11b74-75a5-4160-a03c-c67f3f5ffef4.png)
+
+![compte rendu2](https://user-images.githubusercontent.com/120109320/208686998-3be1c967-7f56-4032-bd80-ff77e964c9d2.png)
+
+
 
 J’ai cependant eu des problèmes avec une de mes boucles for qui permettait de faire remonter la barrière progressivement. En effet, celle-ci faisait buggé mes conditions et je n’ai pas réussi à savoir pourquoi. 
 
