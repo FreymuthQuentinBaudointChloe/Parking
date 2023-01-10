@@ -11,7 +11,7 @@ J’ai également dessiné, les trous qu’on devrait faire par la suite pour y 
 ![image](https://user-images.githubusercontent.com/120109320/211362817-c6951f33-0379-443c-8628-0c09fb84ea81.png)
 
 
-J’ai ensuite été au FabLab pour commencer à créer nos pièces. 
+J’ai ensuite été au FabLab pour commencer à créer les pièces. 
 Nous sommes partis avec Chloé sur des pièces en bois. 
 J’ai ensuite été sur le site « Maker Case », qui m’a été recommandé par les personnes travaillant au FabLab. 
 Ce site permet de créer des pièces, et j’ai donc commencé à créer la première pièce qui était une boite vide (qui nous permettra par la suite de cacher le matériel) (voir ci-dessous). 
