@@ -22,7 +22,7 @@ Ce site permet de créer des pièces, et j’ai donc commencé à créer la prem
 J’ai ensuite télécharger ce fichier, exporté sur une clé USB et je suis parti au FabLab pour la créer. 
 On a utilisé une machine qui découpe les pièces au laser. Une fois les pièces découpé, il me restait à les coller ensemble pour que celles-ci forment une boite (les 4 côtés et la base). 
 J’ai donc demander de l’aide à Chloé pour qu’elle m’aide à coller les pièces ensemble puisque c’est assez compliqué de le faire seul. 
-On les a collé avec de la colle à bois, puis on les à fait tenir avec une sangle pour que la colle est le temps de sécher (voir photo ci-dessous).
+On les a collé avec de la colle à bois, puis on les à fait tenir avec une sangle pour que la colle ait le temps de sécher (voir photo ci-dessous).
 
  ![image](https://user-images.githubusercontent.com/120109320/211363022-e5324581-539c-40c8-9066-fdb73b7039c6.png)
 
