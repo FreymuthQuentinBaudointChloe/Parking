@@ -15,8 +15,11 @@ Suite à cela, on va traiter les « erreurs » : si il n’y a pas de badge pré
 Sinon on passe à la lecture du badge avec une boucle pour récupérer l’ID et pour l’afficher. 
 J’ai testé ensuite le code avec le badge puis la carte, j’ai pu constater qu’il n’avait pas la même ID. 
 Il ne sera donc pas nécessaire d’avoir un autre jeu de badge/carte care nous voulons avoir seulement 2 voitures. 
- 
- ![image](https://user-images.githubusercontent.com/120109320/211363551-81f25bd7-9cf4-45f7-8ecd-dfd0d32234f8.png)
+
+![image](https://user-images.githubusercontent.com/120109320/211564482-544cbd8e-0e3d-48db-8aa3-281741bfca63.png)
+
+![image](https://user-images.githubusercontent.com/120109320/211564580-e3d2bae1-1fba-4237-b7a5-9acf4084918e.png)
+
 
 
 Je voulais ensuite brancher un deuxième module pour le portail de sortie. Après avoir appris qu’il s’agissait d’une disposition en bus. 
