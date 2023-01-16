@@ -8,12 +8,15 @@ Je ne s’avait pas comment comparer les bytes avec une référence. J’ai donc
 
 ![image](https://user-images.githubusercontent.com/120109320/212725155-5d46dbdc-2ef7-4e73-8136-e5a3be9180cb.png)
 
-J'ai donc mis une condition dans mon programme qui quand on a une réponse positive de la fonction on ouvre la barrière.
+J'ai donc mis une condition dans mon programme qui, quand on a une réponse positive de la fonction va permettre d'ouvrire la barrière.
 Il faudra donc ensuite ajouter le code pour ouvrire la barrière à la place de notre "print("ouvrir la barrière")". 
-Et j'ai testé avec un badge qui ne sera pas utilisé par nos voiture, et donc non reconnu par la capteur
+Et j'ai testé avec un badge qui ne sera pas utilisé par nos voitures, et donc non reconnu par le capteur.
 
 ![image](https://user-images.githubusercontent.com/120109320/212725943-496ced6a-5925-44c0-90c3-94a7c9e9041b.png)
-![image](https://user-images.githubusercontent.com/120109320/212726367-7b5cbc9f-80f6-4b45-8be5-0394118ea769.png)
+![image](https://user-images.githubusercontent.com/120109320/212726512-6752e176-4767-462e-81de-f1e7461554a9.png)
 
+Suite à l'oral, on nous a conseillé de ne pas utiliser de capteur ultrason au niveau de la barrière. Initialement, nous voulions vérifier si aucun objet n'était présent au-dessus de la barrière avec la distance que le capteur nous rendrait. Nous allons donc opter pour des capteurs infrarouges, situés des deux cotés de la barrière. Ils seront plus fiable pour notre projet.
 
+![image](https://user-images.githubusercontent.com/120109320/212728124-148f9c29-0068-444e-9afe-c507471fe8da.png)
+ J'ai donc repris le code de Quentin sur les barrières, mais je n'arrive pas encore à brancher correctement les deux capteurs. 
 
