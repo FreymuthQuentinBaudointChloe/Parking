@@ -2,7 +2,7 @@ Lors de cette séance j’ai commencé à regarder comment fonctionnait les écr
 L’écran LCD que nous avons reçu est donc branché avec un bus I2C. 
 J’ai alors par la suite regardé sur Internet comment fonctionnait l’écran LCD lorsqu’il était branché à un bus I2C. 
 
-Une fois le montage réalisé (voir ci-dessous), j’ai commencé à cherché, comment on réalisait le code.
+Une fois le montage réalisé (voir ci-dessous), j’ai commencé à cherché comment on réalisait le code.
 
 ![image](https://user-images.githubusercontent.com/120109320/212728672-8d345325-eece-47c7-9f9d-9119b6dcd79c.png)
 
