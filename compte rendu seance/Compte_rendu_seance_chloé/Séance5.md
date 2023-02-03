@@ -1,4 +1,5 @@
 Compte rendu séance 5
+
 Aujourd’hui nous avons décidé de commencer à relier les programmes entre eux.
 
 Le but étant lors de cette séance de commander la première barrière d’entrée. 
@@ -15,6 +16,7 @@ J’ai rencontré des problèmes lors de se programme et ai donc demander de l�
 Il s’agissait finalement de problème lié à certains délais. J’ai pu ainsi finir le programme en ajoutant les conditions nécessaires pour relever correctement la barrière. 
 Finalement après avoir tester plusieurs fois, le code fonctionne correctement : la barrière descend au passage du badge, ne remonte pas si la voiture est encore au-dessus de celle-ci, puis remonte quand la voiture est passée.
 Dans le programme ci-dessous, on déclare d'abord toutes les variables nécessaires ainsi que les biblihotèques.
+
 ![image](https://user-images.githubusercontent.com/120109320/216586985-f754666f-241b-48f4-881b-5018ad5a2c50.png)
 
 Puis on initialise les éléments nécessaires au programme.
