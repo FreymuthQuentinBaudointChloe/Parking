@@ -1,7 +1,7 @@
 Lors de la séance précédente, les professeurs nous avait donné deux capteurs de proximité infrarouge, qu’ils ont jugé plus utile pour notre projet que les capteurs ultrasons 
 (pour détecter si une voiture se trouve au-dessus de la barrière). 
 
-Lors de cette séance, j’ai donc regardé comment ils fonctionnaient et j’ai donc fait les branchements nécessaire et le code qui va avec (voir ci-dessous) :
+Lors de cette séance, j’ai donc regardé comment ils fonctionnaient et j’ai donc fait les branchements nécessaire (voir photo ci-dessous) et le code qui va avec:
 
 ![image](https://user-images.githubusercontent.com/120109320/216586010-f7632ac3-8397-4b26-b945-b9e0643684ae.png)
 
