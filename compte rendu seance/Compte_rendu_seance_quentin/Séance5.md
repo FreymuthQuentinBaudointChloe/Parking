@@ -4,6 +4,8 @@ Lors de la séance précédente, les professeurs nous avait donné deux capteurs
 Lors de cette séance, j’ai donc regardé comment ils fonctionnaient et j’ai donc fait les branchements nécessaire (voir photo ci-dessous) et le code qui va avec:
 
 ![image](https://user-images.githubusercontent.com/120109320/216586010-f7632ac3-8397-4b26-b945-b9e0643684ae.png)
+
+
 ![image](https://user-images.githubusercontent.com/120109320/216590668-0d66594a-9d90-4297-ad49-10eb4c2c7f70.png)
 
 
