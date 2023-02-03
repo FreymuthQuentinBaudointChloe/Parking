@@ -26,7 +26,7 @@ Puis on initialise les éléments nécessaires au programme.
 
 ![image](https://user-images.githubusercontent.com/120109320/216587061-9e404893-f070-4c84-87d2-e0b6d85f03e5.png)
 
-Une fois que le badge est détecté et que la barrière est descendue, les capteurs de proximité vont pourvoir nous dire si la voiture est toujours présent ou non. 
+Une fois que le badge est détecté et que la barrière est descendue, les capteurs de proximité vont pourvoir nous dire si la voiture est toujours présente ou non. 
 Tant que la réponse est positive, la barrière est en bas ; quand la réponse devient négative on peut remonter la barrière.
 
 
