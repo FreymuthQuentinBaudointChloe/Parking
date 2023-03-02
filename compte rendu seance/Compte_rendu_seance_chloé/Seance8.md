@@ -1,5 +1,5 @@
 Pour cette dernière séance, nous avons commencé à assembler les différents éléments de notre parking. 
-Nous avons d’abord commencé à brancher la barrière de sortie avec le module RFID et les capteurs de proximité. (voire ci-dessous)
+Nous avons premièrement brancher la barrière de sortie avec le module RFID et les capteurs de proximité. (voire ci-dessous)
 
 ![image](https://user-images.githubusercontent.com/120109320/222504607-c9b29e29-107d-4dad-ac04-0ae2d89ab130.png)
 
